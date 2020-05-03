@@ -6,6 +6,7 @@ describe('Hook Demo',function(){
     before(() => {
         // runs once before all tests in the block
         cy.log("************This is a Setup block*************")
+        cy.log("************This is a Setup block*************")
       })
     
       after(() => {
