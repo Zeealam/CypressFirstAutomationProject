@@ -1,3 +1,7 @@
 {
   "projectId": "f2srwz"
 }
+
+{
+  "testFiles": "**/*.feature"
+}
